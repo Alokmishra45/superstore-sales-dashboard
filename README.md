@@ -66,7 +66,7 @@ The main objective of this project is to analyze:
 ## 📸 Dashboard Preview
 
 ### Sales Dashboard
-![Dashboard](dashboard1.png)
+![Dashboard](Dashboard1.jpeg)
 
 ### Sales Forecast
 ![Forecast](Dashboard2.jpeg)
