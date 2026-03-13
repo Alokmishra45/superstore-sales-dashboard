@@ -69,7 +69,7 @@ The main objective of this project is to analyze:
 ![Dashboard](dashboard1.png)
 
 ### Sales Forecast
-![Forecast](dashboard2.png)
+![Forecast](Dashboard2.jpeg)
 
 
 
